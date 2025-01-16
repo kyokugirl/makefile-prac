@@ -12,3 +12,4 @@ Danger: When * matches no files, it is left as it is (unless run in the wildcard
 - in "replacing" mode, it takes the stem that was matched and replaces that in a string.
 
 ### Automatic Variables
+https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html
