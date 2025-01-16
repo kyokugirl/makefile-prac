@@ -1,6 +1,6 @@
 ### Makefile Syntax
 
-```
+```Makefile
 target: dependencies
 	command
 ```
@@ -19,7 +19,7 @@ to make this happen, make uses the filesystem timesatamps.
 Variables are used to store values that can be used in the makefile. It can only be strings.
 Referece variables using either `${}`, `$()`
 
-```
+```Makefile
 variables := file1, file2
 
 target: $(variables)
