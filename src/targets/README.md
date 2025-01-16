@@ -1,3 +1,5 @@
+## Targets
+
 ### The all target
 `all` will run by default if `make` is called without specifying a target
 

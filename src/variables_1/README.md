@@ -1,3 +1,5 @@
+## Automatic Variables and Wildcards
+
 ### `*` Wildcard
 
 the value of wildcard in a target or dependencies, wildcard expansion will take place there.
